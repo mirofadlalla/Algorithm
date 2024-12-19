@@ -46,11 +46,4 @@
 
   **`O(E log E)`**.
 
----
-
-### Summary
-Kruskal’s Algorithm efficiently constructs a Minimum Spanning Tree (MST) by leveraging:
-- Edge sorting to minimize weights.
-- Union-Find to avoid cycles and maintain disjoint sets.
-- An overall time complexity of **`O(E log E)`**, making it suitable for sparse graphs.
 
