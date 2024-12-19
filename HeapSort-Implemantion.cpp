@@ -51,7 +51,7 @@ void printArray(const vector<int>& arr) {
 
 
 int main() {
-    vector<int> arr = {7,12,16,18,19,61};
+    vector<int> arr = {65,48,2,5,83,59};
 
     cout << "Original array: ";
     printArray(arr);
